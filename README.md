@@ -1,1 +1,1 @@
-# sahasrapath-solutions-private-limited
+# sahasrapath-aiml-internship
